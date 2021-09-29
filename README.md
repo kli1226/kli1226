@@ -1,5 +1,5 @@
 - 👋 Hi! Kristi here :) 
-- 👩🏻‍💻 I am a rising junior at Boston University studying Advertising and Computer Science
+- 👩🏻‍💻 I am a junior at Boston University studying Advertising and Computer Science
 - 👀 I’m interested in mobile app development, UI/UX design, and digital marketing
 - 📫 kli1226@bu.edu
 
